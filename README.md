@@ -1,2 +1,2 @@
-# LBS
+# LMS
 Library Management System
